@@ -240,6 +240,19 @@ hr.light-100
    margin-left: -5vw;
   }
   
+    
+  .carousel-caption h1 
+  {
+    font-size:250%;
+    margin-top: -5vw;
+  
+  }
+  .carousel-caption h3 
+  {
+    font-size:200%;
+    text-shadow: 1px 1px 10px #000;
+  
+  }
 }
 
 
